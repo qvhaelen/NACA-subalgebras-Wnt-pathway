@@ -1,0 +1,1 @@
+void  test_algebra(int&  number_algebra, int** nonzero_mtable, int* permutation_added, int** matrix_Q, int** matrix_M,bool& bool_algebra,bool& bool_algebra_reduced, int& algebra_dimension,int& dim_mul_table, int& dim_Q);
